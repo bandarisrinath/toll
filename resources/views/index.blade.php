@@ -17,7 +17,7 @@
                             <h1 class="intro-title text-white">New Lookbook</h1><!-- End .intro-title -->
 
                             <a href="category.html" class="btn btn-outline-white-4">
-                                <span>Discover More</span>
+                                <span>Discover More Products 1</span>
                             </a>
                         </div><!-- End .intro-content -->
                     </div><!-- End .intro-slide -->
